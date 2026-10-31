@@ -1,11 +1,19 @@
-# Hi, I'm Mradul Garg 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=160&section=header&text=Mradul%20Garg&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38" width="100%" alt="Mradul Garg"/>
 
-**Full-Stack Developer (MERN)** · Ghaziabad, India · Open to SDE internships and full-time roles
+  <h3>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26" alt="👋"/></h3>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://my-portfolio-nu-mauve-3hwthnyqyz.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mradul-garg-972ab7339/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/Mradul_Garg/)
-[![Email](https://img.shields.io/badge/mradulgarg2005@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:mradulgarg2005@gmail.com)
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+(MERN);Building+AI-powered+web+apps;Deploying+on+AWS+with+Docker+%26+Nginx" alt="Full-Stack Developer (MERN) · Building AI-powered web apps · Deploying on AWS with Docker and Nginx"/>
+
+  <p><b>Ghaziabad, India</b> · Open to SDE internships and full-time roles</p>
+
+  <a href="https://my-portfolio-nu-mauve-3hwthnyqyz.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/mradul-garg-972ab7339/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://leetcode.com/u/Mradul_Garg/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+  <a href="mailto:mradulgarg2005@gmail.com"><img src="https://img.shields.io/badge/mradulgarg2005@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
+</div>
+
+## About me
 
 I build full-stack web apps with React, Node.js and MongoDB, and I deploy them myself on AWS with Docker and Nginx. Lately I've been building AI products that use several LLM providers, so the app keeps working when one of them goes down.
 
@@ -58,3 +66,5 @@ Animated personal site with a contact form and an admin panel for updating my re
 ---
 
 📫 **Let's connect:** [mradulgarg2005@gmail.com](mailto:mradulgarg2005@gmail.com) · [LinkedIn](https://www.linkedin.com/in/mradul-garg-972ab7339/) · [Resume](https://my-portfolio-nu-mauve-3hwthnyqyz.vercel.app/mradul-resume.pdf)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:0D1117&height=90&section=footer" width="100%" alt=""/>
