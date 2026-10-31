@@ -78,7 +78,7 @@
         <img src="https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white"/>
         <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white"/>
       </p>
-      <i>Private repository</i>
+      <a href="https://github.com/mradul-08/linkedin-smart-messenger"><b>Code</b></a> · <i>v4.2.0</i>
     </td>
     <td width="50%" valign="top">
       <h3>🎨 Portfolio</h3>
