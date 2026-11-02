@@ -15,23 +15,31 @@
 
 ## About me
 
-I build full-stack web apps with React, Node.js and MongoDB, and I deploy them myself on AWS with Docker and Nginx. Lately I've been building AI products that use several LLM providers, so the app keeps working when one of them goes down.
+I'm a B.Tech CSE student at AKGEC, Ghaziabad (2023–2027, CGPA 8.17) and a full-stack developer working with React, Node.js, Express and MongoDB. I've built and deployed several full-stack applications, from an interview preparation platform running on AWS to an AI website builder.
+
+- 💼 **MERN Stack Developer Intern** at ConsultIT Technologies (June–August 2026): built the NGO section of the DMS Aarohi Musical Society website (6 pages) with React and Tailwind CSS, its Node/Express APIs, and an admin panel for non-technical staff
+- 🚀 Deploying my own apps on AWS EC2, Docker and Nginx, and on Vercel
+- 🧠 Solved 150+ DSA problems on LeetCode
 
 ## Projects
 
 ### [CodeVerse](https://github.com/mradul-08/interview_platform): interview preparation platform · [Live](https://interviewlattice.duckdns.org/)
-- Built end to end: DSA practice, aptitude tests, mock interviews, study groups and real-time chat
-- Runs submitted code safely in isolated Docker containers with no network access (C++, Java, Python, JS)
+- Built end to end with 7 modules: DSA practice, aptitude tests, mock interviews, study groups, messaging, progress tracking and gamification
+- Runs submitted code safely in isolated Docker containers with no network access (C++, Java, Python, JS), with a 2-second time limit and 256 MB memory limit
+- Real-time chat with Socket.IO, video mock interviews with LiveKit, and Google/GitHub login
 - Deployed on AWS EC2 with Nginx (HTTPS), systemd auto-restart, health checks every 5 minutes and daily database backups
 
 `React` `Express` `MongoDB` `Socket.IO` `Docker` `Nginx` `AWS EC2` `LiveKit`
 
-### [GenWeb.ai](https://github.com/mradul-08/Genweb.ai): AI website builder · [Live](https://genweb-ai-delta.vercel.app/)
-- Turns a plain-language prompt into a responsive website that you edit by chat and deploy in one click
-- Falls back between AI providers (Groq, Mistral, Cerebras, OpenRouter) with key rotation, so generation keeps working when one provider fails
-- Google sign-in (Firebase), JWT sessions and Razorpay payments for credits
+### [GenWeb.ai 2.0](https://github.com/mradul-08/GenWeb.ai-2.0): AI website builder · [Live](https://genweb-v2-web.vercel.app/)
+- Describe a website in plain English and get a complete, responsive site with desktop, tablet and mobile previews
+- Uses multiple AI providers (Groq, Cloudflare, ZhipuAI) with automatic fallback, so generation keeps working when one provider fails
+- AI edits change only the part of the page you asked about instead of regenerating the whole site (edit time 3.5s → 0.7s in testing)
+- Google sign-in (Firebase), Razorpay payments for credits, version history with undo/redo, and one-click publishing
 
-`React` `Node.js` `Express` `MongoDB` `Firebase` `Razorpay`
+`React` `Redux Toolkit` `Node.js` `Express` `MongoDB` `Firebase` `Razorpay`
+
+*Version 1: [GenWeb.ai](https://github.com/mradul-08/Genweb.ai) · [Live](https://genweb-ai-delta.vercel.app/)*
 
 ### [LinkedIn Smart Messenger](https://github.com/mradul-08/linkedin-smart-messenger): Chrome extension
 - Sends personalised LinkedIn messages with advanced people search, an inbox reply system, scheduling and AI drafts
@@ -55,6 +63,13 @@ Animated personal site with a contact form and an admin panel for updating my re
 | **Databases** | MongoDB, Redis, Firebase |
 | **DevOps & Cloud** | Docker, AWS EC2, Nginx, Linux, Git, GitHub, Postman |
 | **AI** | Groq, Mistral, Cerebras, OpenRouter, Cloudflare Workers AI, Claude |
+
+## Achievements
+
+- 🏆 **Smart India Hackathon (SIH) 2025:** cleared the internal college round and advanced to the Ministry round (Govt. of India)
+- 💻 **HackWithInfy (Infosys):** cleared Round 1 and Round 2 of a national-level coding competition
+- 📜 **Certified MERN Stack Developer:** Advanced MERN Stack (React, Node.js, Express.js, MongoDB), Infosys Springboard
+- 🧩 Solved **150+ problems** on [LeetCode](https://leetcode.com/u/Mradul_Garg/)
 
 ## Stats
 
