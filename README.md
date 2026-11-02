@@ -17,7 +17,6 @@
 
 I'm a B.Tech CSE student at AKGEC, Ghaziabad (2023–2027, CGPA 8.17) and a full-stack developer working with React, Node.js, Express and MongoDB. I've built and deployed several full-stack applications, from an interview preparation platform running on AWS to an AI website builder.
 
-- 💼 **MERN Stack Developer Intern** at ConsultIT Technologies (June–August 2026): built the NGO section of the DMS Aarohi Musical Society website (6 pages) with React and Tailwind CSS, its Node/Express APIs, and an admin panel for non-technical staff
 - 🚀 Deploying my own apps on AWS EC2, Docker and Nginx, and on Vercel
 - 🧠 Solved 150+ DSA problems on LeetCode
 
@@ -63,13 +62,6 @@ Animated personal site with a contact form and an admin panel for updating my re
 | **Databases** | MongoDB, Redis, Firebase |
 | **DevOps & Cloud** | Docker, AWS EC2, Nginx, Linux, Git, GitHub, Postman |
 | **AI** | Groq, Mistral, Cerebras, OpenRouter, Cloudflare Workers AI, Claude |
-
-## Achievements
-
-- 🏆 **Smart India Hackathon (SIH) 2025:** cleared the internal college round and advanced to the Ministry round (Govt. of India)
-- 💻 **HackWithInfy (Infosys):** cleared Round 1 and Round 2 of a national-level coding competition
-- 📜 **Certified MERN Stack Developer:** Advanced MERN Stack (React, Node.js, Express.js, MongoDB), Infosys Springboard
-- 🧩 Solved **150+ problems** on [LeetCode](https://leetcode.com/u/Mradul_Garg/)
 
 ## Stats
 
